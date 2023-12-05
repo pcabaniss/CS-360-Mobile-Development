@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UpKeep</string>
+    <string name="create_one">Create one</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="enter_password">Enter password</string>
+    <string name="try_again">There was a problem, please check and try again.</string>
+    <string name="receive_notifications">Do you wish to recieve SMS messages notifications that
+    can let you know when your inventory is getting low?</string>
+</resources>
